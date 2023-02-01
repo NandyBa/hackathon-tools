@@ -85,7 +85,7 @@ Blockchain explorers are useful for viewing and interacting with the blockchain.
 - [Polygonscan - Polygon Mainnet](https://polygonscan.com/)
 - [Binance Blockchain Explorer](https://bscscan.com/)
 - [Avalanche Blockchain Explorer](https://snowtrace.io/)
-- [Gnosis Chain Explorer](https://blockscout.com/xdai/mainnet/)
+- Gnosis Chain Explorer: [GnosisScan](https://gnosisscan.io/) & [Blockcout](https://blockscout.com/xdai/mainnet/)
 - [Ethereum Testnet Goerli](https://goerli.etherscan.io/)
 - [Ethereum Test Sepolia](https://sepolia.etherscan.io/)
 - [Polygon Testnet Mumbai](https://mumbai.polygonscan.com/)
